@@ -1,0 +1,160 @@
+baseURL = "https://example.org/"
+languageCode = "es-es"
+title = "Esports | Hogar de las últimas noticias sobre esports"
+theme = "msouto-esports"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = "" # your analitics ID
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "es"
+
+# Site Params
+[params]
+logo = "images/logo.png"
+
+[[Params.listeLangues]]
+code = "es"
+
+# meta data
+author = "msc"
+description = "El hogar de los esports"
+
+[Languages]
+
+[Languages.es]
+weight = 2
+languageCode = "es-es"
+title = "El hogar de los esports"
+dateFormat = "9 Marzo, 2021"
+home = "Inicio"
+logo = "images/logos/mystic-esports.png"
+menufixed = false
+
+footerDescription = "Vivimos las últimas novedades sobre  esports, síguenos en twitter @esports"
+footerServiceTitle = "Servicios"
+footerQuicklinkTitle = "Enlaces"
+footerAboutTitle = "Sobre nosotros"
+footerSubscribeTitle = "Subscríbete"
+
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# Hero Area Section
+[Languages.es.params.hero]
+enable  = true
+heading = "Toda la información sobre Esports al instante"
+description = "Bienvenido al hogar de las últimas noticias sobre esports, descubre y forma parte de una comunidad emocionante."
+button  = true
+btnText = "Acerca de nosotros"
+btnURL  = "https://google.com/" # TODO
+videoThumb = "images/slider/video-player-thumb-esports-olds.jpg"
+videoURL   = "https://www.youtube.com/watch?v=m0zWiUGrzBk"
+
+# About 2 Section
+[Languages.es.params.aboutSm]
+enable  = false
+title   = "We have explored the digital landscape with passion for a long time"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+# Blog Section On Homepage
+[Languages.es.params.blog]
+enable  = true
+topTitle= "Mantente a la última con nuestro"
+title   = "Blog."
+subtitle= "Noticias fresquitas y troceaditas en tu boquita"
+
+# Contact Section
+[Languages.es.params.contact]
+enable  = true
+topTitle= "DROP US A NOTE"
+title   = "Contact Us."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+address = "14/05, Stockhome <br> Victori Palace , United States"
+phone   = "(03) 9283 2617"
+fax     = "+61 3827 3590"
+facebook= "https://www.facebook.com/"
+twitter = "https://twitter.com/"
+linkedin= "https://www.linkedin.com/"
+dribbble= "https://dribbble.com/"
+instagram= "https://www.instagram.com/"
+mapLatitude = "51.507351"
+mapLongitude= "-0.127758"
+mapMarker   = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.es.params.cta]
+enable  = true
+bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+title   = "Let's Create Something Together"
+subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Contact Us"
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+# Navbar Menus
+[[menu.nav]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "service"
+url     = "service"
+weight  = 3
+[[menu.nav]]
+name    = "portfolio"
+url     = "portfolio"
+weight  = 4
+[[menu.nav]]
+name    = "blog"
+url     = "blog"
+weight  = 5
+[[menu.nav]]
+name    = "contact"
+url     = "contact"
+weight  = 6
+
+# Footer Service Menu
+[[menu.service]]
+name    = "graphicdesign"
+url     = "service"
+weight  = 1
+[[menu.service]]
+name    = "webdesign"
+url     = "service"
+weight  = 2
+[[menu.service]]
+name    = "webdevelopment"
+url     = "service"
+weight  = 3
+
+# Footer Quick links Menu
+[[menu.quicklink]]
+name    = "partners"
+url     = "about"
+weight  = 1
+[[menu.quicklink]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.quicklink]]
+name    = "faqs"
+url     = "about"
+weight  = 3
+[[menu.quicklink]]
+name    = "badges"
+url     = "about"
+weight  = 4
