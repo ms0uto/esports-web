@@ -1,3 +1,3 @@
 [submodule ".\\themes\\msouto-esports-template"]
 	path = .\\themes\\msouto-esports-template
-	url = https://github.com/ms0uto/msouto-esports-template.git
+	url = git://github.com/ms0uto/msouto-esports-template.git
