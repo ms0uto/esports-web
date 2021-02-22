@@ -95,7 +95,7 @@ mapMarker   = "images/marker.png"
 
 # Call to Action Section on About Page
 [Languages.es.params.cta]
-enable  = true
+enable  = false
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
 title   = "Let's Create Something Together"
 subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."

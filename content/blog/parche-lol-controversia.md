@@ -2,7 +2,7 @@
 title: "Parche de League of Legends causa controversia"
 date: 2018-07-08T12:22:40+06:00
 image: images/blog/parche-lol-controversia.png
-author: Victor Gay
+author: Victor Gayer
 description: "This is meta description"
 ---
 
