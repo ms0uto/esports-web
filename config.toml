@@ -1,7 +1,7 @@
 baseURL = "https://example.org/"
 languageCode = "es-es"
 title = "Esports | Hogar de las últimas noticias sobre esports"
-theme = "msouto-esports"
+theme = "msouto-esports-template"
 summaryLength = 10
 
 # Build robots.txt file
