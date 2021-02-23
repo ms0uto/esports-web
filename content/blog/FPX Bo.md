@@ -4,7 +4,7 @@ date = 2021-02-22T11:00:00Z
 description = ""
 draft = true
 image = "/uploads/fpxbo.JPG"
-title = "FPX Bo suspendido por match fixing"
+title = "FPX Bo suspendido por match fixing."
 
 +++
 Fuerte varapalo para el ex campeón del mundo _FPX (FunPlus Phoenix)_, ya que su jungla Zhou Yang Bo (IGN FPX.Bo) ha sido suspendido hasta nuevo aviso por un asunto de match fixing. El equipo de Doinb, que lideraba junto a _EDG (EDward gaming)_ y _RNG (Royal Never Give Up)_ la clasificación de la LPL después del fichaje estrella de _Nuguri_ (Ex _Damwon_, campeón del mundo en 2020), ha revelado que _Bo_ fue coaccionado a amañar partidas en el pasado torneo LDL 2020. 
