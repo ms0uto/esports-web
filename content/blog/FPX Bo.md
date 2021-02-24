@@ -7,11 +7,11 @@ image = "/uploads/fpxbo.JPG"
 title = "FPX Bo suspendido por match fixing."
 
 +++
-Fuerte varapalo para el ex campeón del mundo _FPX (FunPlus Phoenix)_, ya que su jungla Zhou Yang Bo (IGN FPX.Bo) ha sido suspendido hasta nuevo aviso por un asunto de match fixing. El equipo de Doinb, que lideraba junto a _EDG (EDward gaming)_ y _RNG (Royal Never Give Up)_ la clasificación de la LPL después del fichaje estrella de _Nuguri_ (Ex _Damwon_, campeón del mundo en 2020), ha revelado que _Bo_ fue coaccionado a amañar partidas en el pasado torneo LDL 2020. 
+Fuerte varapalo para el ex campeón del mundo _FPX (FunPlus Phoenix)_, ya que su jungla Zhou Yang Bo (IGN FPX.Bo) ha sido suspendido hasta nuevo aviso por un asunto de match fixing. El equipo de Doinb, que lideraba junto a _EDG (EDward gaming)_ y _RNG (Royal Never Give Up)_ la clasificación de la LPL después del fichaje estrella de _Nuguri_ (Ex _Damwon_, campeón del mundo en 2020), ha revelado que _Bo_ fue coaccionado a amañar partidas en el pasado torneo LDL 2020.
 
 Una lástima ya que _FPX,_ a ojos de muchos, esta nueva iteración de la formación estaba en una muy buena posición para ser uno de los mejores, ya no sólo en cuanto a la LPL, sino a nivel global. _Tian_ abandonará su baja indefinida (por motivos de estrés) para aparecer como titular en su partida de hoy contra _Team WE_.
 
-![](https://cdn1.dotesports.com/wp-content/uploads/sites/4/2019/11/12105336/49045292737_7e9db151e1_k.jpg)
+<img src="https://cdn1.dotesports.com/wp-content/uploads/sites/4/2019/11/12105336/49045292737_7e9db151e1_k.jpg" style="width=200px; height=200;"/>
 
 **Comunicado oficial de FPX en weibo:**
 
@@ -33,4 +33,5 @@ _League of Legends_ se tomará en serio cualquier tipo de violación de la disci
 
 **Fuente:** [https://weibo.com/ttarticle/p/show?id=2309404607458306818275#_0](https://weibo.com/ttarticle/p/show?id=2309404607458306818275#_0 "Comunicado LPL")
 
-![](https://ucatchers.com/wp-content/uploads/2021/01/FPX2021.jpg)
+![Image](https://ucatchers.com/wp-content/uploads/2021/01/FPX2021.jpg){ width=50% }
+<div style="width:50%">![Chilling](https://www.w3schools.com/w3images/fjords.jpg)</div>
