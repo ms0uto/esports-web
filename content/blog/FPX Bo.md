@@ -13,7 +13,6 @@ Una lástima ya que _FPX,_ a ojos de muchos, esta nueva iteración de la formaci
 
 <img src="https://cdn1.dotesports.com/wp-content/uploads/sites/4/2019/11/12105336/49045292737_7e9db151e1_k.jpg" style="width=200px; height=200;"/>
 
-
 **Comunicado oficial de FPX en weibo:**
 
 Recientemente, hemos estado preocupados por una opinión que circula online de que _Zhou Yang Bo_ _(FPX.Bo)_ estuvo involucrado en un amaño de partidas. Bo ha dado un paso adelante y reportado al club que fue obligado a participar en este tipo de conducta competitiva inapropiada durante el torneo LDL 2020.
@@ -35,3 +34,5 @@ _League of Legends_ se tomará en serio cualquier tipo de violación de la disci
 **Fuente:** [https://weibo.com/ttarticle/p/show?id=2309404607458306818275#_0](https://weibo.com/ttarticle/p/show?id=2309404607458306818275#_0 "Comunicado LPL")
 
 <img src="https://ucatchers.com/wp-content/uploads/2021/01/FPX2021.jpg" style="width=200px; height=200;"/>
+
+    ![](https://ucatchers.com/wp-content/uploads/2021/01/FPX2021.jpg =100x20)
