@@ -34,3 +34,4 @@ _League of Legends_ se tomará en serio cualquier tipo de violación de la disci
 **Fuente:** [https://weibo.com/ttarticle/p/show?id=2309404607458306818275#_0](https://weibo.com/ttarticle/p/show?id=2309404607458306818275#_0 "Comunicado LPL")
 
 ![Image](https://ucatchers.com/wp-content/uploads/2021/01/FPX2021.jpg){ width=50% }
+<div style="width:50%">![Chilling](https://www.w3schools.com/w3images/fjords.jpg)</div>
