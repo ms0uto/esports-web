@@ -5,7 +5,7 @@ theme = "msouto-esports-template"
 summaryLength = 10
 
 # Build robots.txt file
-enableRobotsTXT = true
+enableRobotsTXT = false # TODO set true with new domain.
 # google analytics tracking id
 googleAnalytics = "" # your analitics ID
 
@@ -34,7 +34,7 @@ description = "El hogar de los esports"
 weight = 2
 languageCode = "es-es"
 title = "El hogar de los esports"
-dateFormat = "9 Marzo, 2021"
+dateFormat = "2 January 2006"
 home = "Inicio"
 logo = "images/logos/mystic-esports.png"
 menufixed = false
